@@ -1,0 +1,27 @@
+ Id CommandLine                                               
+  -- -----------                                     
+   7 git status                                                
+   8 ls                                                        
+   9 ls -lart                                                  
+  10 ls -Force                                                 
+  11 git status                                                
+  12 git add .                                                 
+  13 git status                                                
+  14 git rm --cached .                                         
+  15 git rm --cached .\testing.py                              
+  16 git rm --cached testing.py                                
+  17 git rm --cached                                           
+  18 git status                                                
+  19 git rm --cached testing2.py                               
+  20 git status                                                
+  21 git add .                                                 
+  22 git status                                                
+  23 git commit -m "adding my testing files"                   
+  24 git status                                                
+  25 rm testing.py                                             
+  26 rm testing2.py                                            
+  27 git restore testing.py testing2.py                        
+  28 git status                                                
+  29 ls                                                        
+  30 ls -Force
+  
