@@ -52,4 +52,5 @@
   56 rm  localDir                                              
   57 cd localDir                                               
   58 rm .                                                      
-  59 cd ..                                                     
+  59 cd .. 
+                                                     
