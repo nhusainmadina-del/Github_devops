@@ -52,5 +52,14 @@
   56 rm  localDir                                              
   57 cd localDir                                               
   58 rm .                                                      
+<<<<<<< HEAD
+  59 cd .. 
+                                                     
+=======
   59 cd ..         
+<<<<<<< HEAD
+this is new changes just practice part 2
+>>>>>>> ea138f437a680a7a94382fa31a4b4ce31941be05
+=======
 this is new changes just practice part
+>>>>>>> 1dc2a3490e135a3ed3255be4f08c2cb2f6c8c524
