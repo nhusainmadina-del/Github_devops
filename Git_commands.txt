@@ -33,10 +33,10 @@
   37 github remote -v                                          
   38 git remote -v                                             
   39 git remote set-url origin                                 
-  40 git remote set-url origin https://ghp_Pp9kT2kHSLZVD9CrG...
+  40 git remote set-url origin https://...
   41 git remote add  origin                                    
   42 git remote add origin                                     
-  43 git remote add origin https://ghp_Pp9kT2kHSLZVD9CrGFZ5w...
+  43 git remote add origin https://
   44 git remote -v                                             
   45 git push origin master                                    
   46 cd ..                                                     
@@ -53,4 +53,3 @@
   57 cd localDir                                               
   58 rm .                                                      
   59 cd ..                                                     
-  
