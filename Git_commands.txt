@@ -24,4 +24,33 @@
   28 git status                                                
   29 ls                                                        
   30 ls -Force
+  31 history                                                   
+  32 git status                                                
+  33 git add .                                                 
+  34 git status                                                
+  35 git commit -m "git commands"                              
+  36 git status                                                
+  37 github remote -v                                          
+  38 git remote -v                                             
+  39 git remote set-url origin                                 
+  40 git remote set-url origin https://ghp_Pp9kT2kHSLZVD9CrG...
+  41 git remote add  origin                                    
+  42 git remote add origin                                     
+  43 git remote add origin https://ghp_Pp9kT2kHSLZVD9CrGFZ5w...
+  44 git remote -v                                             
+  45 git push origin master                                    
+  46 cd ..                                                     
+  47 mkdir localDir                                            
+  48 git clone https://github.com/fitindia-com/Github_devops...
+  49 cd localDir                                               
+  50 git clone https://github.com/fitindia-com/Github_devops...
+  51 cd ..                                                     
+  52 ls                                                        
+  53 rm localDir                                               
+  54 rm -rf localDir                                           
+  55 rm -r localDir                                            
+  56 rm  localDir                                              
+  57 cd localDir                                               
+  58 rm .                                                      
+  59 cd ..                                                     
   
